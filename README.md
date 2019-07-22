@@ -1,2 +1,2 @@
 # the-first-project
-none
+this is my first project
